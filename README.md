@@ -1,3 +1,3 @@
-SUMMARY
+Summary
 =======
-Source code for the [https://cmeierba.github.io](cmeierba.github.io) website
+Source code for the [cmeierba.github.io](https://cmeierba.github.io) website
